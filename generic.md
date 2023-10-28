@@ -1,13 +1,39 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Services
+description: Services provided
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+Standard Mowing:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+Frequency: Weekly, bi-weekly, or custom schedules to suit your needs.
+Description: Our expert team will mow your lawn to the ideal height, ensuring a neat and uniform appearance every time.
+Landscaping:
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Description: We offer full landscaping services, from design to implementation. Enhance your outdoor space with our creative and innovative landscaping solutions.
+Flower Bed & Shrub Shaping:
+
+Description: Let us take care of your flower beds and shrubs, shaping them to perfection for a manicured, aesthetically pleasing look.
+Fall Clean Up:
+
+Frequency: Seasonal or one-time service.
+Description: Prepare your lawn for the changing seasons with our thorough fall clean-up services, including leaf removal and debris clearing.
+Tree Trimming:
+
+Description: Keep your trees healthy and well-maintained with our professional tree trimming services, ensuring their growth and appearance are at their best.
+Fence Work:
+
+Description: We offer fence installation and repair services to enhance the security and privacy of your property. Choose from a variety of styles and materials.
+Fertilizing:
+
+Description: Our specialized fertilization services will provide your lawn with the nutrients it needs to thrive, ensuring a lush and healthy green space throughout the year.
+Spring Clean Up:
+
+Frequency: Seasonal or one-time service.
+Description: Prepare your lawn for the vibrant growth of spring with our comprehensive clean-up services, including debris removal and soil preparation.
+Commercial Lawn Care:
+
+Description: We provide expert lawn care services for commercial properties, ensuring a well-maintained and professional outdoor appearance that leaves a lasting impression on clients and customers.
+At Almaraz Lawn Care Services, we are committed to delivering the highest quality services to meet your unique lawn care needs. Whether it's routine maintenance, landscaping, or specialized tasks like tree trimming, fence work, or commercial lawn care, our dedicated team is here to make your outdoor space the best it can be. Contact us today to schedule any of these services and enjoy the benefits of a well-cared-for lawn.

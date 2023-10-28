@@ -1,7 +1,7 @@
 ---
-title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+title: Gallery
+layout: gallery
+description: 'View before and after pictures and a gallery of our past projects'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
