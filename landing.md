@@ -1,6 +1,6 @@
 ---
 title: Gallery
-layout: gallery
+layout: landing
 description: 'View before and after pictures and a gallery of our past projects'
 image: assets/images/pic07.jpg
 nav-menu: true
