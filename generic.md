@@ -2,7 +2,7 @@
 layout: post
 title: Services
 description: Services provided
-image: assets/images/pic11.jpg
+image: 
 nav-menu: true
 ---
 
@@ -51,7 +51,7 @@ nav-menu: true
 	</dd>
 </dl>
 
-<h4>Fence Work::</h4>
+<h4>Fence Work:</h4>
 <dl>
 	<dd>
 		<p>We offer fence installation and repair services to enhance the security and privacy of your property. Choose from a variety of styles and materials.</p>
