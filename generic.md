@@ -2,8 +2,8 @@
 layout: post
 title: Services
 description: Services provided
-image: 
-nav-menu: true
+image: assets/images/pic11.jpg
+nav-menu: false
 ---
 
 <h4>Standard Mowing:</h4>
