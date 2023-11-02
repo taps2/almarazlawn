@@ -17,3 +17,5 @@ nav-menu: false
 </section>
 
 
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
