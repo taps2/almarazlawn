@@ -12,7 +12,10 @@ nav-menu: false
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		{% include image-gallery.html folder="/_gallery" %}
+		{% include image-gallery.html folder="/gallery" %}
+		{% include image-gallery.html folder="gallery" %}
+		{% include image-gallery.html folder="/_includes/gallery" %}
+		{% include image-gallery.html folder="_includes/gallery" %}
 		<p>test</p>
 	</div>
 </section>

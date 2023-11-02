@@ -3,8 +3,8 @@ title: Almaraz Lawn Care
 subtitle: lawn care services
 email: hector@almarazlawn.com
 description: Almaraz Lawn Care services - Since 2022.<br />Family owned and operated.
-baseurl: # the subpath of your site, e.g. /blog
-url: "almarazlawn.com" # the base hostname & protocol for your site
+baseurl: "/almarazlawn" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 author:
 street_address: 1304 Hillside Drive
 city: Gainesville
