@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Services
 description: Services provided
 image: assets/images/pic11.jpg
