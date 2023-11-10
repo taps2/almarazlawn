@@ -6,7 +6,7 @@ description: Almaraz Lawn Care services - Since 2022.<br />Family owned and oper
 baseurl: "/almarazlawn" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1304 Hillside Drive
+street_address: 127 Throckmorton St
 city: Gainesville
 state: TX
 zip_code: 76240
