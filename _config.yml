@@ -1,8 +1,8 @@
 # site settings
 title: Almaraz Lawn Care
-subtitle: lawn care services
+subtitle: gainesville, TX lawn care services
 email: hector@almarazlawn.com
-description: Almaraz Lawn Care services - Since 2022.<br />Family owned and operated.
+description: Almaraz Lawn Care services - Since 2022.<br />Family owned and operated. <br />Serving Gainesville TX and surrounding areas.
 baseurl: "/almarazlawn" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
